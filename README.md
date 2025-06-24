@@ -6,7 +6,7 @@ This is the code and dataset page for paper "A Dataset and Benchmark for Enhanci
 ## Synthetic dataset
 The sample synthetic dataset is available in [Dataset](./Dataset). The images and label are restored in paired .zip file and .csv file (e.g. full500.zip and full500.csv).  
 
-![Example for display](./Dataset/00009.png) ![Example for display](./Dataset/00098.png) ![Example for display](./Dataset/00167.png) ![Example for display](./Dataset/00184.png)
+![Example for display](./Dataset/00009.png) ![Example for display](./Dataset/00167.png) ![Example for display](./Dataset/00184.png)
 
 Currently, only a dataset of size 500 is uploaded as a sample. **More and larger datasets are going to be here as time goes**
 
