@@ -9,7 +9,7 @@ The sample synthetic dataset is available in [Dataset](./Dataset). The images an
 Currently, only a dataset of size 500 is uploaded as a sample. **More and larger datasets are going to be here as time goes**
 
 ## Rendered RFO models 
-We have uploaded many RFO 3D models into [RFO models](./RFO_models). These RFOs are believed to be very common in clinical surgeries. Here is the RFO 3D model list. All the RFO models are saved as .obj files. Since the pipeline is set to load dicom files as input, we also provide an example script([obj2dcm](./RFO_models/obj2dcm.py)) to convert these .obj files into .dcm files. Revise it as you want.
+Many RFO 3D models that are believed to be very common in clinical surgeries have been uploaded into [RFO models](./RFO_models). The RFO 3D model list is shown as follows. All the RFO models are saved as .obj files. Since the pipeline is set to load dicom files as input, we also provide an example script([obj2dcm](./RFO_models/obj2dcm.py)) to convert these .obj files into .dcm files. Revise it as you want.
 
 | RFO type  | File(folder) name |
 |-----------|-------------------|
@@ -28,4 +28,4 @@ We have uploaded many RFO 3D models into [RFO models](./RFO_models). These RFOs 
 ![Rendering](./RFO%20models/rendering.png)
 
 ## Want to run RFO_DeepDRR pipleline?
-This part will be completed after the paper is accepted. Thank you!
+This part will be available after the paper is accepted. Thank you!
