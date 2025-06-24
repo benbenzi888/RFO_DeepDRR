@@ -1,5 +1,5 @@
 # RFO_DeepDRR
-This is the code and dataset page for paper "A Dataset and Benchmark for Enhancing Retained Foreign Object Detection Through Physics-based Image Synthesis". RFO-DeepDRR is a novel physics-based pipeline specifically designed to generate realistic synthetic radiographs using a clinically relevant RFO rendering model
+This is the code and dataset page for paper "A Dataset and Benchmark for Enhancing Retained Foreign Object Detection Through Physics-based Image Synthesis". RFO-DeepDRR is a novel physics-based pipeline specifically designed to generate realistic synthetic radiographs using a clinically relevant RFO rendering model.
 
 ![Pipeline](./pipeline.png)
 
@@ -8,10 +8,10 @@ The sample synthetic dataset is available in [Dataset](./Dataset). The images an
 
 ![Example for display](./Dataset/00049.png) ![Example for display](./Dataset/00167.png) ![Example for display](./Dataset/00184.png)
 
-Currently, only a dataset of size 500 is uploaded as a sample. **More and larger datasets are going to be here as time goes**
+Currently, only a dataset of size 500 is uploaded as a sample. **More and larger datasets are going to be here as time goes.**
 
 ## Rendered RFO models 
-Many RFO 3D models that are believed to be very common in clinical surgeries have been uploaded into [RFO models](./RFO_models). The RFO 3D model list is shown as follows. All the RFO models are saved as .obj files. Since the pipeline is set to load dicom files as input, we also provide an example script ([obj2dcm.py](./RFO_models/obj2dcm.py)) to convert these .obj files into .dcm files. Revise it as you want.
+Many RFO 3D models that are believed to be very common in clinical surgeries have been uploaded into [RFO models](./RFO_models). The RFO 3D model list is shown as follows. 
 
 | RFO type  | File(folder) name |
 |-----------|-------------------|
@@ -28,6 +28,8 @@ Many RFO 3D models that are believed to be very common in clinical surgeries hav
 | Wires |  cotton_wires |
 
 ![Rendering](./RFO%20models/rendering.png)
+
+All the RFO models are saved as .obj files. Since the pipeline is set to load dicom files as input, we also provide an example script ([obj2dcm.py](./RFO_models/obj2dcm.py)) to convert these .obj files into .dcm files. Revise it as you want.
 
 ## Want to run RFO_DeepDRR pipleline?
 This part will be available after the paper is accepted. Thank you!
