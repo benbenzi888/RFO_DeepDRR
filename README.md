@@ -25,7 +25,7 @@ We have uploaded many RFO 3D models into [RFO models](./RFO_models). These RFOs 
 | Aid booties |  ASPEN_suture_aid_booties.obj |
 | Wires |  cotton_wires |
 
-![Rendering](./RFO models/rendering.png)
+![Rendering](./RFO%20models/rendering.png)
 
 ## Want to run RFO_DeepDRR pipleline?
 This part will be completed after the paper is accepted. Thank you!
