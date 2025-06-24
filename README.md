@@ -4,7 +4,7 @@ This is the code and dataset page for paper "A Dataset and Benchmark for Enhanci
 ![Pipeline](./pipeline.png)
 
 ## Synthetic dataset
-The sample synthetic dataset is available in [Dataset](./Dataset). The images and label are restored in paired .zip file and .csv file (e.g. full500.zip and full500.csv).  
+The sample synthetic dataset is available in [Dataset](./Dataset). The images and label are restored in paired .zip file and .csv file (e.g. full500.zip and full500.csv).  Some examples are shown below:
 
 ![Example for display](./Dataset/00009.png) ![Example for display](./Dataset/00167.png) ![Example for display](./Dataset/00184.png)
 
